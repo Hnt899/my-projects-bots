@@ -1,0 +1,4 @@
+[bot]
+token=TOKEN_API
+[project]
+name=BaseBot
